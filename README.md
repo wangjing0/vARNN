@@ -1,4 +1,4 @@
-# Structure of three types of recurrent neural networks
+# Three types of recurrent neural networks
 <p align="center">
   <img src="cell.png" height="700" >
 </p>
