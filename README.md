@@ -2,3 +2,7 @@
 <p align="center">
   <img src="cell.png" height="700" >
 </p>
+
+<p align="center">
+  <img src="reparametrization.png" height="700" >
+</p>
