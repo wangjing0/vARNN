@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="reparametrization.png" height="700" >
+  <img src="reparametrization.png" height="500" >
 </p>
