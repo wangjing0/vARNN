@@ -1,7 +1,7 @@
 # Three types of recurrent neural networks (RNN)
 ARNN: autoregressive RNN
 
-vARNN: weight varying RNN
+vARNN: weight varying autoregressive RNN
 
 GRU: Gated Recurrent Unit, a simplified LSTM
 
