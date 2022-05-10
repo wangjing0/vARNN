@@ -1,5 +1,4 @@
-# Three types of recurrent neural networks (RNN) for our problem.
-[Paper](https://arxiv.org/abs/2205.04347)
+# Three types of recurrent neural networks (RNN) for our problem. [Paper](https://arxiv.org/abs/2205.04347)
 
 ARNN: autoregressive RNN
 
