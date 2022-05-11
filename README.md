@@ -1,4 +1,4 @@
-# Three types of recurrent neural networks (RNN) for our problem. 
+# Three types of recurrent neural networks (RNN) for time series prediction with reinforcement 
 
 ARNN: autoregressive RNN
 
